@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: property_management
+    description: A clone of a Postgres application database.
+    database: raw
+    schema: property_management
+    tables:
+      - name: properties
+      - name: units
+      - name: vendors
+      - name: owners
+      - name: tenants
+      - name: contact_infos
+      - name: transactions
+      - name: leases
+      - name: rental_applications
+      - name: property_owners
+      - name: emails
+      - name: email_delivery_statuses
+      - name: bank_accounts

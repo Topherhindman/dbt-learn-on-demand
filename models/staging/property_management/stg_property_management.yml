@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: stg_properties
+  - name: stg_units
+  - name: stg_vendors
+  - name: stg_owners
+  - name: stg_tenants
+  - name: stg_contact_infos
+  - name: stg_transactions
+  - name: stg_leases
+  - name: stg_rental_applications
+  - name: stg_property_owners
+  
